@@ -1,4 +1,5 @@
-**Hi there! I'm Atharva Jadhav **
+Hi there! I'm Atharva Jadhav
+
 Welcome to my GitHub! I'm currently a Computer Science student. I'm always eager to learn new things and explore different domains in tech.
 
 🔧 Technologies & Skills:
