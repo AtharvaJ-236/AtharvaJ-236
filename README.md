@@ -12,4 +12,5 @@ Check out my repositories to explore the projects I've worked on! I enjoy workin
 
 🤝 Let's Connect:
 https://www.linkedin.com/in/atharva-jadhav-1484a02b3/
+
 jadhavatharvacs232412@gmail.com
